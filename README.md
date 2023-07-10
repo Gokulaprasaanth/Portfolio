@@ -22,4 +22,4 @@ FINAL NOTE
 
 Thank you for visiting my portfolio repository! I am excited to share my passion for web development with you and demonstrate my expertise through these projects. If you have any inquiries, collaboration opportunities, or would like to connect, please feel free to reach out to me. You can contact me via Portfolio. I look forward to discussing how we can work together to create impactful web experiences.
 
-Let's bring ideas to life and shape the digital world with creativity and innovatio
+Let's bring ideas to life and shape the digital world with creativity and innovation.
